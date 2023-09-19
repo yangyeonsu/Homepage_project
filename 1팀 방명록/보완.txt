@@ -1,0 +1,4 @@
+
+
+ListView.jsp, ListModel.java
+html 구문들을 ListView.jsp에서 작성해도 된다.
